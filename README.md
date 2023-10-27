@@ -1,16 +1,26 @@
-# prochef
 
-A new Flutter project.
+# Prochef
 
-## Getting Started
+ProChef is a mobile application that allows users to search for recipes based on keywords and view recipe details. The app also allows users to add recipes to their favorites and also gives a step-by guide on how a user can make the recipe themselves(like a Pro Chef).
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+to be added
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+
+## 🔗 Links
+https://github.com/Ghasasira
+## Appendix
+
+I used the https://api.edamam.com/api/ for getting the 
+
+
